@@ -1,0 +1,11 @@
+{
+  "name": "stagas-within",
+  "description": "Check if an event came from within an element.",
+  "version": "0.0.2",
+  "keywords": [
+    "dom",
+    "events",
+    "utility"
+  ],
+  "dependencies": {}
+}
